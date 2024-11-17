@@ -1,0 +1,23 @@
+[33mcommit 7e8c45ea5f3f245ecdd33708278e873d3a5fa0ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mendez-dot <mendezsebastien@gmail.com>
+Date:   Sun Nov 17 21:20:40 2024 +0100
+
+    Ajout index.html
+
+[33mcommit ea2aeee0cdf5b60d711b6fbe1461a930fc4271c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mendez-dot <188386157+Mendez-dot@users.noreply.github.com>
+Date:   Fri Nov 15 21:05:53 2024 +0100
+
+    Edit README.md and hello-world.txt
+
+[33mcommit 713ab5f30e117983eca66d6a95b4676c830ed863[m
+Author: Mendez-dot <188386157+Mendez-dot@users.noreply.github.com>
+Date:   Fri Nov 15 20:56:26 2024 +0100
+
+    Add hello-world.txt
+
+[33mcommit 55a8e67f0f3a1ae337f0bb2b661f2009b7d497f8[m
+Author: Mendez-dot <188386157+Mendez-dot@users.noreply.github.com>
+Date:   Thu Nov 14 09:13:56 2024 +0100
+
+    Initial commit
